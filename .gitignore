@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Runtime data (machine-local; never commit)
+.chrome-profile/
+downloads/
+output/
+*.png
+*.jpg
+*.jpeg
+*.webp
+!.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
