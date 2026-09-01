@@ -27,7 +27,7 @@ description: >-
 **依赖**：Python 3.9+、Google Chrome、图形界面（首次登录）、能访问 `doubao.com`。
 
 ```bash
-git clone <本仓库URL>
+git clone https://github.com/yanggan2015/doubao-image.git
 mkdir -p ~/.cursor/skills && cp -a doubao-image ~/.cursor/skills/doubao-image
 cd ~/.cursor/skills/doubao-image
 bash scripts/setup.sh

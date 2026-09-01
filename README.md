@@ -10,6 +10,7 @@ Cursor Skill：Chrome CDP 控制 **豆包**，双提示词生图并下载。
 ## 任意电脑
 
 ```bash
+git clone https://github.com/yanggan2015/doubao-image.git
 cd doubao-image
 bash scripts/setup.sh
 HEADLESS=0 python scripts/wait_login.py
